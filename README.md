@@ -1,0 +1,2 @@
+# fairyGUI_plugin_generate_code_egret
+这是一个as插件项目，插件内容是在fairyGui编辑器中生成egret代码。
