@@ -16,10 +16,9 @@ package
 		{
 			_editor = editor;
 			
-//			if(_editor.project.type=="Egret")
-//			{
+			if(_editor.project.type=="Egret"){
 				_editor.registerPublishHandler(new AutoGenerateNewCodePlugin(_editor));
-//			}
+			}
 			
 //			_editor.registerComponentExtension("窗口", "MyWindowClass", null);
 			
